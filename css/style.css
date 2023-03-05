@@ -1,3 +1,42 @@
+.first {
+    min-height: 515px;
+    padding: 90px 0 64px 0;
+}
+
+.first .first_img {
+    display: block;
+    margin: 0 auto;
+}
+
+.first .first_text {
+    margin-top: 37px;
+    color: #252525;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.first .date {
+    margin-top: 30px;
+    font-family: 'Roboto - Black';
+    font-weight: 400;
+    font-size: 36px;
+    color: #299CBD;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.first .first_subtitle {
+    margin-top: 25px;
+    font-family: 'Roboto';
+    color: #4A4A4A;
+    font-size: 23px;
+    font-weight: 400;
+    text-align: center;
+}
+
 footer {
     min-height: 166px;
     background-color: #1a1a1a;

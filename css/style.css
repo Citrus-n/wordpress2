@@ -1,5 +1,4 @@
 .first {
-    min-height: 515px;
     padding: 90px 0 64px 0;
 }
 
@@ -38,7 +37,6 @@
 }
 
 footer {
-    min-height: 166px;
     background-color: #1a1a1a;
     padding: 61px 0 69px 0;
 }
